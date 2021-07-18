@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\Task\Mars Rover\Mars Rover\bin\Debug\MarsRover.exe.config
+C:\Users\Lenovo\Desktop\Task\Mars Rover\Mars Rover\bin\Debug\MarsRover.exe
+C:\Users\Lenovo\Desktop\Task\Mars Rover\Mars Rover\bin\Debug\MarsRover.pdb
+C:\Users\Lenovo\Desktop\Task\Mars Rover\Mars Rover\obj\Debug\MarsRover.exe
+C:\Users\Lenovo\Desktop\Task\Mars Rover\Mars Rover\obj\Debug\MarsRover.pdb
